@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkf_arm=self.webpackChunkf_arm||[]).push([[4583],{6107:(e,r,u)=>{u.r(r),u.d(r,{default:()=>t});var f=u(6540),n=u(6347);function t(){const e=(0,n.W6)();return(0,f.useEffect)((()=>{e.replace("/2025-1A-T03-G27-PUBLICO/intro")}),[]),null}}}]);

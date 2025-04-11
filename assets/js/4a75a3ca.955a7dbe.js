@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkf_arm=self.webpackChunkf_arm||[]).push([[7286],{1998:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/2025-1A-T03-G27-PUBLICO/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
